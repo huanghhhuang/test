@@ -19,9 +19,9 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>iPhone Distribution</string>
+<string>com.dreamwindows.video</string>
 <key>bundle-version</key>
-<string>debug</string>
+<string>6.6.8</string>
 <key>kind</key>
 <string>software</string>
 <key>title</key>
